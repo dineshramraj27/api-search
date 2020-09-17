@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Search Keyword</string>
+    <string name="api_key">83907da04299f65fb7a237b1fcd0eed2</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="songs">Songs</string>
+    <string name="network_error">Please do check network connection</string>
+    <string name="api_error">Something went wrong, please try again later </string>
+    <string name="json">json</string>
+
+    <string name="large">large</string>
+    <string-array name="categories_list">
+        <item> Album</item>
+        <item> Artist</item>
+        <item> Songs</item>
+    </string-array>
 </resources>
